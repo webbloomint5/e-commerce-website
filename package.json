@@ -2,7 +2,7 @@
   "name": "e-comerce-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://webbloomint5.github.io/e-commerce-website",
+  "homepage": "https://webbloomint5.github.io/e-comerce-website",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

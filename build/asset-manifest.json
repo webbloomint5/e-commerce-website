@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/e-commerce-website/static/js/main.b3568038.js",
-    "index.html": "/e-commerce-website/index.html",
-    "main.b3568038.js.map": "/e-commerce-website/static/js/main.b3568038.js.map"
+    "main.js": "/e-comerce-website/static/js/main.b3568038.js",
+    "index.html": "/e-comerce-website/index.html",
+    "main.b3568038.js.map": "/e-comerce-website/static/js/main.b3568038.js.map"
   },
   "entrypoints": [
     "static/js/main.b3568038.js"
